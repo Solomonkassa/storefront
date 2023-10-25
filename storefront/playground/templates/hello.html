@@ -1,9 +1,13 @@
 <html>
     <body>
-        {% if name %}
-        <h1>Hello {{ name }}</h1>
-        {% else %}
-        <h1>Hello World!</h1>
-        {% endif %}
+       
+     <h1>Prodcuts</h1>
+     <ul>
+        {% for customer in Customers %} 
+            <li>{{ customer.fullname }}</li>
+        {% endfor %}       
+     </ul>
+       
+
     </body>
 </html>
