@@ -9,7 +9,7 @@
 
 ---
 
-## Introduction
+## Introduction.
 
 Welcome to our Storefront Django Web App, the ultimate solution for streamlining your e-commerce journey. This app is designed with advanced features, a sleek user interface, and a focus on providing seamless customer experiences. Whether you're a developer looking to contribute or a user interested in exploring, this README will guide you through the project.
 
